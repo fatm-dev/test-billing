@@ -12,3 +12,7 @@ currency: для того чтобы пользоваться тенге нуж�
   ./vendor/bin/sail migrate
   ./vendor/bin/sail db:seed   #Для создания тестовых пользюков
 ```
+
+
+Link to postman:
+https://www.postman.com/speeding-astronaut-65432/workspace/test-billing-apis
